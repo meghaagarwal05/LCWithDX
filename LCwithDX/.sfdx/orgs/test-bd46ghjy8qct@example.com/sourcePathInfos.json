@@ -1,0 +1,590 @@
+[
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1530178022000,
+            "changeTime": 1530178035000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1530177998000,
+            "changeTime": 1530177998000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1530178947000,
+            "changeTime": 1530178947000,
+            "contentHash": "03e74a15c0213b19de00b46802fbe679bbbe226f"
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "9bc881e80345b892e0143da85674db08d0116c64",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "00f9ba9f899b44dda60b00285f637aca8377c60b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.auradoc",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp",
+            "isDirectory": false,
+            "size": 849,
+            "modifiedTime": 1530178142000,
+            "changeTime": 1530178142000,
+            "contentHash": "f459c652af2a3b4b125632c5d2cba3a1cfdda555",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "ad87208ffaea76ec91f317e3d5d806d2d509d13d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.css",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.design",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.svg",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditController.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditHelper.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditRenderer.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530178106000,
+            "changeTime": 1530178106000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "73fe0c92c7485bfd6b41a5c77fcf9ccd139275eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.auradoc",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp",
+            "isDirectory": false,
+            "size": 701,
+            "modifiedTime": 1530178056000,
+            "changeTime": 1530178056000,
+            "contentHash": "b6edae34c6e18b8ba4bb194610f81d1015ba1699",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "ae2544b4b17da9c03ce791fe2b29a2255e38b512",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.css",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.design",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.svg",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewController.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewHelper.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewRenderer.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530177917000,
+            "changeTime": 1530178035000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "da50f9eb6cbc0f4491efea8bcc991ef6a3801fda",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.auradoc",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp",
+            "isDirectory": false,
+            "size": 1055,
+            "modifiedTime": 1530178183000,
+            "changeTime": 1530178183000,
+            "contentHash": "098212e9ea6e413a7a9101746c343532b1f6d8f6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "54fa2e73c3c25766eff4592a4e1b22f3c43a519d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.css",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.design",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.svg",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditController.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditHelper.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditHelper.js",
+            "isDirectory": false,
+            "size": 132,
+            "modifiedTime": 1530178216000,
+            "changeTime": 1530178216000,
+            "contentHash": "56dcb0350b9d63f24803e671caf850a8c2d250b2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditRenderer.js",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530178167000,
+            "changeTime": 1530178167000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX",
+        {
+            "sourcePath": "/Users/meghaagarwal/LCwithDX",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1530177992000,
+            "changeTime": 1530177992000,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5119,
+            "modifiedTime": 1530178947000,
+            "changeTime": 1530178947000,
+            "contentHash": "771b062e2a3f690dd566923eac8021d9d17da049"
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6114,
+            "modifiedTime": 1530178947000,
+            "changeTime": 1530178947000,
+            "contentHash": "0a8d1c46317a18ffd81b0601cef6528088bd9558"
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/objects/Contact",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1530178947000,
+            "changeTime": 1530178947000,
+            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391"
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1530178947000,
+            "changeTime": 1530178947000,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a"
+        }
+    ],
+    [
+        "/Users/meghaagarwal/LCwithDX/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meghaagarwal/LCwithDX/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1530178947000,
+            "changeTime": 1530178947000,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd"
+        }
+    ]
+]
